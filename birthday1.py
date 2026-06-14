@@ -11,7 +11,7 @@ st.title("🎉 Birthday Surprise 🎉")
 
 if st.button("Generate Birthday Wish"):
     if friend_name:
-    st.balloons()
+st.balloons()
 st.markdown(
     f"""
     # 🎂 Happy Birthday {FRIEND_NAME}! 🎂
