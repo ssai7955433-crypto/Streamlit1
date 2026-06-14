@@ -37,8 +37,6 @@ if st.button("Generate Birthday Wish"):
 
     💖 Friends Forever! 💖
     """
-
-   
-image = Image.open(PHOTO_PATH)
 )
+image = Image.open(PHOTO_PATH)
 st.image(image, caption=f"Happy Birthday {FRIEND_NAME}", use_container_width=True)
