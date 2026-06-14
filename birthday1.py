@@ -40,3 +40,4 @@ if st.button("Generate Birthday Wish"):
 )
 st.image(PHOTO_PATH,caption=f"Happy Birthday Aunty",
          use_container_width=True
+        )       
