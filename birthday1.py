@@ -3,7 +3,7 @@ from PIL import Image
 
 # Set your friend's details here
 FRIEND_NAME = "Suhitha"
-PHOTO_PATH = "D:\sai python\su.jpeg"   # Keep photo in same folder
+PHOTO_PATH = "su.jpeg"   # Keep photo in same folder
 
 st.set_page_config(page_title="Happy Birthday", page_icon="🎂")
 
