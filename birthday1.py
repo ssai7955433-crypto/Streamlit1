@@ -10,9 +10,8 @@ st.set_page_config(page_title="Happy Birthday", page_icon="🎂")
 st.title("🎉 Birthday Surprise 🎉")
 
 if st.button("Generate Birthday Wish"):
-    if friend_name:
-st.balloons()
-st.markdown(
+   st.balloons()
+   st.markdown(
     f"""
     # 🎂 Happy Birthday {FRIEND_NAME}! 🎂
 
