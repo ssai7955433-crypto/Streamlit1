@@ -40,7 +40,7 @@ Once again Happy Birthday Attitude Pilla 😆❤️‍🩹💗!
         st.image("suhi.jpeg", use_container_width=True)
 
     # Auto-play song
-    with open("sai.mpeg", "rb") as f:
+    with open("saip.mpeg", "rb") as f:
         audio_bytes = f.read()
 
     audio_base64 = base64.b64encode(audio_bytes).decode()
