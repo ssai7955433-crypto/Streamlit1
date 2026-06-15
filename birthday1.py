@@ -25,7 +25,7 @@ May all your dreams come true and may your smile always shine brightly.
 No matter where life takes us, our friendship will always remain strong.
 Thank you for standing by me through good times and bad.
 Thank you for being such an amazing friend.
-Once again Happy Birthday Attitude Pilla 😆❤️‍🩹💗!
+Once again Happy Birthday Attitude Pilla 😆❤️‍🩹💗!.PARTY EYY MEY
 
 💖 Friends Forever! 💖
 """)
