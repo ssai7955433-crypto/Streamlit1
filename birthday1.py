@@ -34,13 +34,13 @@ Once again Happy Birthday Attitude Pilla 😆❤️‍🩹💗!
     col1, col2 = st.columns(2)
 
     with col1:
-        st.image("su.jpeg", caption="Beautiful Memories", use_container_width=True)
+        st.image("suhit.jpeg", caption="Beautiful Memories", use_container_width=True)
 
     with col2:
         st.image("suhi.jpeg", caption="Friends Forever", use_container_width=True)
 
     # Auto-play song
-    with open("suh.mpeg", "rb") as f:
+    with open("sai.mpeg", "rb") as f:
         audio_bytes = f.read()
 
     audio_base64 = base64.b64encode(audio_bytes).decode()
