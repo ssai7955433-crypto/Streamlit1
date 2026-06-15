@@ -38,7 +38,7 @@ Enjoy your special day to the fullest!
 """)
 
     # Show Photo
-    st.image("su.jpeg","suhi.jpeg use_container_width=True)
+    st.image("su.jpeg""suhi.jpeg use_container_width=True)
 
     # Auto Play Song
     with open("suh.mpeg", "rb") as f:
