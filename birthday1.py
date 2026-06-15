@@ -37,3 +37,6 @@ Wishing you a birthday filled with love, joy, fun, and unforgettable
         caption=f"Happy Birthday {FRIEND_NAME}",
         use_container_width=True
     )
+    audio_file = open("suh.mpeg", "rb")
+    audio_bytes = audio_file.read()
+    st.audio(audio_bytes, format="audio/mpeg")
