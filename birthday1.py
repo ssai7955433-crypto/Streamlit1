@@ -25,7 +25,7 @@ May all your dreams come true and may your smile always shine brightly.
 No matter where life takes us, our friendship will always remain strong.
 Thank you for standing by me through good times and bad.
 Thank you for being such an amazing friend.
-Once again Happy Birthday Attitude Pilla 😆❤️‍🩹💗!.PARTY EYY MEY
+Once again Happy Birthday Attitude Pilla 😆❤️‍🩹💗!."PARTY Mukhyam Mey".
 
 💖 Friends Forever! 💖
 """)
@@ -34,13 +34,13 @@ Once again Happy Birthday Attitude Pilla 😆❤️‍🩹💗!.PARTY EYY MEY
     col1, col2 = st.columns(2)
 
     with col1:
-        st.image("sai1.jpeg", caption="Aunty 😁", use_container_width=True)
+        st.image("suhi.jpeg", caption="Aunty 😁", use_container_width=True)
 
     with col2:
-        st.image("suhi.jpeg", use_container_width=True)
+        st.image("att.jpeg", use_container_width=True)
 
     # Auto-play song
-    with open("sai12.mpeg", "rb") as f:
+    with open("attit.mpeg", "rb") as f:
         audio_bytes = f.read()
 
     audio_base64 = base64.b64encode(audio_bytes).decode()
